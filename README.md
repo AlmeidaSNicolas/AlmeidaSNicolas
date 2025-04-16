@@ -1,4 +1,3 @@
-
 # 💻 Nicolas
 
 **Desenvolvedor Backend**
@@ -28,6 +27,15 @@ Tenho 19 anos e atualmente curso Engenharia de Software sou Natural de Sao Jose 
 
 <img 
     align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+
+<img 
+    align="left" 
     alt="JavaScript" 
     title="JavaScript"
     width="30px" 
@@ -46,8 +54,8 @@ Tenho 19 anos e atualmente curso Engenharia de Software sou Natural de Sao Jose 
 
 <img 
     align="left" 
-    alt="Git" 
-    title="Git"
+    alt="Node" 
+    title="Node"
     width="30px" 
     style="padding-right: 10px;"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg"
@@ -64,11 +72,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-ori
 
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Git" 
+    title="Git"
     width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
-![pecasnaby GitHub stats](https://github-readme-stats.vercel.app/api?username=pecasnaby&icons=true&theme=dracula)
+    style="padding-right: 10px;"    
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
