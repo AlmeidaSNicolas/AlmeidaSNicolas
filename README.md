@@ -1,4 +1,4 @@
-### Prazer me chamo Nicolas 👋🦋
+### Prazer me chamo Nicolas e tenho interesse em atuar como Back-End👋🦋
 
 
 ![pecasnaby GitHub stats](https://github-readme-stats.vercel.app/api?username=pecasnaby&icons=true&theme=dracula)
