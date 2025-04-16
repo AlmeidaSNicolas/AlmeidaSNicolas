@@ -1,7 +1,8 @@
 # 💻 Nicolas
 
 **Desenvolvedor Backend**
-Tenho 19 anos e atualmente curso Engenharia de Software sou Natural de Sao Jose dos Campos, tenho interesse em atuar como Backend
+<br></br>
+Tenho 19 anos e curso Engenharia de Software sou natural de Sao Jose dos Campos, atualmente foco mais na area backend
 
 ---
 
