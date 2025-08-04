@@ -83,12 +83,4 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 
 <br></br>
 
-### 📊 Estatísticas
 
-<img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="150" 
-    style="padding-right: 10px;" 
-    src="https://githubreadmestats.vercel.app/apiusername=AlmeidaSNicolas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
