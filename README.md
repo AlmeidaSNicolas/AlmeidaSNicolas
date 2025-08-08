@@ -2,7 +2,7 @@
 
 **Desenvolvedor Frontend**
 <br></br>
-Tenho 19 anos e curso Engenharia de Software sou natural de Sao Jose dos Campos, atualmente foco mais na area frontend
+Tenho 19 anos e curso Engenharia de Software sou natural de Sao Jose dos Campos, atualmente foco na area frontend
 
 ---
 
