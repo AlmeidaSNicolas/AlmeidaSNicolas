@@ -91,17 +91,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 
 <hr>
 
-📌 Projeto em Destaque
-
-
-📚 Portifolio
-Site Criado como forma de demonstrar meus codigos de forma mais visivel
-
-Tecnologias utilizadas: HTML · CSS · JavaScript · Figma
-
-
-🔗 [Confira o site](https://portifolio-abdy.onrender.com)
-
 
 
 
