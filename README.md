@@ -100,7 +100,7 @@ Site Criado como forma de demonstrar meus codigos de forma mais visivel
 Tecnologias utilizadas: HTML · CSS · JavaScript · Figma
 
 
-🔗 [Confira o sistema](https://portifolio-abdy.onrender.com)
+🔗 [Confira o site](https://portifolio-abdy.onrender.com)
 
 
 
