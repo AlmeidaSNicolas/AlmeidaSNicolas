@@ -92,12 +92,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 <hr>
 
 📌 Projeto em Destaque
+
+
 📚 Portifolio
 Site Criado como forma de demonstrar meus codigos de forma mais visivel
 
-Funcionalidades principais:
-
-Visualização dos meus dados
 Tecnologias utilizadas: HTML · CSS · JavaScript · Figma
 
 
