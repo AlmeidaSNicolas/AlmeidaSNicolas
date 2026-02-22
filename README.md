@@ -2,7 +2,7 @@
 
 **Desenvolvedor Frontend**
 <br></br>
-Tenho 19 anos e curso Engenharia de Software sou natural de Sao Jose dos Campos, atualmente tenho foco em me tornar um desenvolvedor fullstack, focando meus estudos em linguagens tanto backend quanto frontend, mesclando conhecimentos e aplicando em projetos pessoais.
+Tenho 20 anos e curso Engenharia de Software sou natural de Sao Jose dos Campos, atualmente tenho foco em me tornar um desenvolvedor fullstack, focando meus estudos em linguagens tanto backend quanto frontend, mesclando conhecimentos e aplicando em projetos pessoais.
 
 ---
 
