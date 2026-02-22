@@ -81,11 +81,11 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 
 <img
     aling="left"
-    alt="Angular"
-    title="Angular"
+    alt="React"
+    title="React"
     width="30px"
     style="padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg](https://www.svgrepo.com/show/452092/react.svg)" />
           
 <p>
 
