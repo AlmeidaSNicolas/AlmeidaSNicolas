@@ -85,7 +85,8 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
     title="React"
     width="30px"
     style="padding-rigth: 10px;"
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg](https://www.svgrepo.com/show/452092/react.svg)" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+         
           
 <p>
 
