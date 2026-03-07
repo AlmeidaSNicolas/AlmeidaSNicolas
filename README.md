@@ -81,12 +81,13 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-ori
 
 <img
     aling="left"
-    alt="React"
-    title="React"
+    alt="Next"
+    title="Next"
     width="30px"
     style="padding-rigth: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-         
+    rc="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg"/>
+
+     
           
 <p>
 
