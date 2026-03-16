@@ -46,7 +46,7 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ### 🌐 Contato e Redes Sociais
 <p align="left">
-  <a href="https://www.linkedin.com/in/nicolas-almeida-dev" target="_blank" rel="noopener noreferrer">
+  <a href="www.linkedin.com/in/nicolas-almeida-" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Nicolas Almeida">
   </a>
   <a href="https://www.youtube.com/@StackDoAlmeida" target="_blank" rel="noopener noreferrer">
