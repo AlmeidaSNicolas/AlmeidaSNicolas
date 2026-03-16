@@ -50,10 +50,23 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 ---
 
 #### 📊 GitHub Stats
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=vision-pro)
+ <img>
+  aling = "left"
+  alt = "Github Status"
+  heigth = "200"
+  syle = "padding-rigth: 10px;"
+  src = "https://github-readme-stats.vercel.app/api?username=AlmeidaSNicolas&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br"
+</>
 
-![Status do GitHub](https://github-readme-stats.vercel.app/api?username=AlmeidaSNicolas&show_icons=true&theme=vision-pro)
+<img>
+  aling = "left"
+  alt = "Github Status"
+  heigth = "200"
+  syle = "padding-rigth: 10px;"
+  src = "https://github.com/AlmeidaSNicolas/github-readme-stats"
+</>
 
+  
 ---
 
 ### 🚀 Principais Projetos
