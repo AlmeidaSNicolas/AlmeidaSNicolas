@@ -49,24 +49,12 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ---
 
-#### 📊 GitHub Stats
- <img>
-  aling = "left"
-  alt = "Github Status"
-  heigth = "200"
-  syle = "padding-rigth: 10px;"
-  src = "https://github-readme-stats.vercel.app/api?username=AlmeidaSNicolas&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br"
-</>
+### 📊 My GitHub Stats
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlmeidaSNicolas&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180" style="padding-right: 10px;" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=synthwave&hide=html,css" alt="Top Languages" height="180" />
+</p>
 
-<img>
-  aling = "left"
-  alt = "Github Status"
-  heigth = "200"
-  syle = "padding-rigth: 10px;"
-  src = "https://github.com/AlmeidaSNicolas/github-readme-stats"
-</>
-
-  
 ---
 
 ### 🚀 Principais Projetos
@@ -78,3 +66,5 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 ### 🌱 Além do Código
 * 🌍 **Geopolítica:** Entusiasta e estudioso de dinâmicas globais.
 * 🇪🇸 **Idiomas:** Português (Nativo) e Espanhol Fluente.
+
+<br>
