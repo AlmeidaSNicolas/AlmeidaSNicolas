@@ -49,10 +49,10 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ---
 
-### 📊 My GitHub Stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=vision-pro&hide=html,css)](https://github.com/AlmeidaSNicolas)
-<br/>
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlmeidaSNicolas&show_icons=true&theme=vision-pro&count_private=true)](https://github.com/AlmeidaSNicolas)
+#### 📊 GitHub Stats
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=vision-pro)
+
+![Status do GitHub](https://github-readme-stats.vercel.app/api?username=AlmeidaSNicolas&show_icons=true&theme=vision-pro)
 
 ---
 
