@@ -46,6 +46,6 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ### 🌐 Idiomas
 * **Português:** Nativo
-* **Espanhol:** Em aprendizado ativo 🇪🇸 (Meta: Laredo 2026)
+* **Espanhol:** Fluente
 
 <br>
