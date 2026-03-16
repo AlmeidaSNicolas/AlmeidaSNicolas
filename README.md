@@ -49,9 +49,10 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ---
 
-#### 📊 GitHub Stats
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=vision-pro&hide=html,css&v=1)
-![Estatísticas Gerais](https://github-readme-stats.vercel.app/api?username=AlmeidaSNicolas&show_icons=true&theme=vision-pro&include_all_commits=true&count_private=true&v=1)
+### 📊 My GitHub Stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=vision-pro&hide=html,css)](https://github.com/AlmeidaSNicolas)
+<br/>
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AlmeidaSNicolas&show_icons=true&theme=vision-pro&count_private=true)](https://github.com/AlmeidaSNicolas)
 
 ---
 
@@ -64,5 +65,3 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 ### 🌱 Além do Código
 * 🌍 **Geopolítica:** Entusiasta e estudioso de dinâmicas globais.
 * 🇪🇸 **Idiomas:** Português (Nativo) e Espanhol Fluente.
-
-<br>
