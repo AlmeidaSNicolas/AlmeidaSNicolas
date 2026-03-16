@@ -3,7 +3,7 @@
 **Software Engineering Student | Fullstack Developer**
 <br>
 
-Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, foco meus estudos no desenvolvimento de aplicações escaláveis utilizando o ecossistema **React** e **Next.js**. Tenho experiência prática na construção de APIs e integração com bancos de dados, buscando sempre o equilíbrio entre uma interface intuitiva e um backend sólido.
+Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, foco meus estudos no desenvolvimento de aplicações modernas utilizando o ecossistema **React** e **Next.js**. Tenho experiência prática na construção de APIs e integração com bancos de dados SQL, buscando sempre o equilíbrio entre uma interface intuitiva e um backend sólido.
 
 ---
 
@@ -11,11 +11,12 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 #### Frontend & Frameworks
 <p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="35" title="HTML5" style="padding-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="35" title="CSS3" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="35" title="JavaScript" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" title="TypeScript" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" title="React" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="35" title="Next.js" style="padding-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="35" title="Angular" style="padding-right: 10px;"/>
 </p>
 
 #### Backend & Databases
@@ -38,13 +39,13 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ### 🚀 Principais Projetos em Desenvolvimento
 
-* **Airport Management System:** Um projeto fullstack focado na gestão e organização de fluxos aeroportuários, utilizando Node.js e React.
-* **IA Integration:** Experimentando a implementação de ferramentas de IA para otimizar fluxos de desenvolvimento e experiência do usuário.
+* **Airport Management System:** Um projeto fullstack focado na gestão e organização de fluxos aeroportuários, utilizando Node.js, Express e React.
+* **IA Integration:** Experimentando a implementação de ferramentas de IA para otimizar fluxos de desenvolvimento e produtividade.
 
 ---
 
 ### 🌐 Idiomas
 * **Português:** Nativo
-* **Espanhol:** Fluente
+* **Espanhol:** Em aprendizado ativo 🇪🇸 (Meta: Laredo 2026)
 
 <br>
