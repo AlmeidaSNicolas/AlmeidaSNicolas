@@ -49,13 +49,6 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ---
 
-### 📊 My GitHub Stats
-<p align="left">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AlmeidaSNicolas&show_icons=true&theme=synthwave&include_all_commits=true&locale=pt-br" alt="GitHub Stats" height="180" style="padding-right: 10px;" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=synthwave&hide=html,css" alt="Top Languages" height="180" />
-</p>
-
----
 
 ### 🚀 Principais Projetos
 * **Airport Management System:** Sistema fullstack focado na gestão e organização de fluxos aeroportuários (Node.js, Express e React).
