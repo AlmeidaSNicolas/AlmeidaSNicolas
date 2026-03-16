@@ -7,6 +7,18 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ---
 
+### 🌐 Contato e Redes Sociais
+<p align="left">
+  <a href="https://www.linkedin.com/in/nicolas-almeida-dev" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Nicolas Almeida">
+  </a>
+  <a href="https://www.youtube.com/@StackDoAlmeida" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal Stack do Almeida no YouTube">
+  </a>
+</p>
+
+---
+
 ### 🤖💻 Linguagens e Tecnologias
 
 #### Frontend & Frameworks
@@ -37,30 +49,14 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ---
 
-### 🚀 Principais Projetos em Desenvolvimento
-
-* **Airport Management System:** Um projeto fullstack focado na gestão e organização de fluxos aeroportuários, utilizando Node.js, Express e React.
-* **IA Integration:** Experimentando a implementação de ferramentas de IA para otimizar fluxos de desenvolvimento e produtividade.
-
----
-
-### 🌐 Contato e Redes Sociais
-<p align="left">
-  <a href="https://www.linkedin.com/in/nicolas-almeida-" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Nicolas Almeida">
-  </a>
-  <a href="https://www.youtube.com/@StackDoAlmeida" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Canal Stack do Almeida no YouTube">
-  </a>
-</p>
+### 🚀 Principais Projetos
+* **Airport Management System:** Sistema fullstack focado na gestão e organização de fluxos aeroportuários (Node.js, Express e React).
+* **Stack do Almeida:** Canal onde documento minha jornada de aprendizado e compartilho conhecimento técnico.
 
 ---
----
 
-### 🌐 Idiomas
-* **Português:** Nativo
-* **Espanhol:** Fluente
+### 🌱 Além do Código
+* 🌍 **Geopolítica:** Entusiasta e estudioso de dinâmicas globais
+* 🇪🇸 **Idiomas:** Português (Nativo) e Espanhol Fluente.
 
 <br>
-
-
