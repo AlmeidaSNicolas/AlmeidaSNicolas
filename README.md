@@ -44,8 +44,19 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ---
 
+### 🎥 YouTube & Social
+<p align="left">
+  <a href="https://www.youtube.com/@StackDoAlmeida" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Stack do Almeida">
+  </a>
+</p>
+
+---
+
 ### 🌐 Idiomas
 * **Português:** Nativo
 * **Espanhol:** Fluente
 
 <br>
+
+
