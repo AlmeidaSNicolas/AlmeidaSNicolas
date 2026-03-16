@@ -47,6 +47,12 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" title="Linux (Pop!_OS)" style="padding-right: 10px;"/>
 </p>
 
+#### 📊 GitHub Stats
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=vision-pro&hide=html,css" alt="Linguagens mais usadas" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AlmeidaSNicolas&show_icons=true&theme=vision-pro&include_all_commits=true&count_private=true" alt="Estatísticas Gerais" height="165" />
+</p>
+
 ---
 
 ### 🚀 Principais Projetos
@@ -56,7 +62,7 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 ---
 
 ### 🌱 Além do Código
-* 🌍 **Geopolítica:** Entusiasta e estudioso de dinâmicas globais
+* 🌍 **Geopolítica:** Entusiasta e estudioso de dinâmicas globais.
 * 🇪🇸 **Idiomas:** Português (Nativo) e Espanhol Fluente.
 
 <br>
