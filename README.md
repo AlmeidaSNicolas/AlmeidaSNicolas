@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/AlmeidaSNicolas/AlmeidaSNicolas/blob/main/github.png?raw=true" alt="Banner Nicolas Sales de Almeida" width="100%">
+</p>
+
 # 💻 Nicolas
 
 **Software Engineering Student | Fullstack Developer**
@@ -48,7 +52,6 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 </p>
 
 ---
-
 
 ### 🚀 Principais Projetos
 * **Airport Management System:** Sistema fullstack focado na gestão e organização de fluxos aeroportuários (Node.js, Express e React).
