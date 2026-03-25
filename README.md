@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/AlmeidaSNicolas/AlmeidaSNicolas/blob/main/github.png?raw=true" alt="Banner Nicolas Sales de Almeida" width="100%">
-</p>
-
 # 💻 Nicolas
 
 **Software Engineering Student | Fullstack Developer**
