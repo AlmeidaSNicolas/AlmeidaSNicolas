@@ -44,6 +44,7 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" title="GitHub" style="padding-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" title="Docker" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" title="Linux (Pop!_OS)" style="padding-right: 10px;"/>
 </p>
 
