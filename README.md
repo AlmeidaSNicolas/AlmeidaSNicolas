@@ -47,16 +47,6 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ---
 
-### 📊 Estatísticas do GitHub
-
-<p align="left">
-  <a href="https://github.com/AlmeidaSNicolas">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=dracula" alt="Top Linguagens de Nicolas">
-  </a>
-</p>
-
----
-
 ### 🚀 Principais Projetos
 * **Airport Management System:** Sistema Backend focado na gestão e organização de fluxos aeroportuários (Node.js, Express).
 * **Stack do Almeida:** Canal onde documento minha jornada de aprendizado e compartilho conhecimento técnico.
