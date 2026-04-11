@@ -45,7 +45,7 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="35" title="Linux (Pop!_OS)" style="padding-right: 10px;"/>
 </p>
 
-Top Langs(https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=draculahttps://github.com/AlmeidaSNicolas)
+Top Langs https://github-readme-stats.vercel.app/api/top-langs/?username=AlmeidaSNicolas&layout=compact&theme=draculahttps://github.com/AlmeidaSNicolas)
 
 ---
 
