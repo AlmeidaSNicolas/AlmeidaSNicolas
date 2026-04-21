@@ -49,7 +49,6 @@ Sou estudante de Engenharia de Software em São José dos Campos. Atualmente, fo
 
 ### 🚀 Principais Projetos
 * **Airport Management System:** Sistema Backend focado na gestão e organização de fluxos aeroportuários (Node.js, Express).
-* **Tiempo Focus:** Sistema de timer do pomodoro para sistematizar meu foco. (React, vite (A ser adicionado: Banco de dados com Docker  ) 
 * **Stack do Almeida:** Canal onde documento minha jornada de aprendizado e compartilho conhecimento técnico.
 
 ---
