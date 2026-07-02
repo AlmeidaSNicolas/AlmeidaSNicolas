@@ -3,7 +3,7 @@
 **Software Engineering Student | Fullstack Developer**
 <br>
 
-I am a Software Engineering student based in São José dos Campos, Brazil. Currently, I focus my studies on developing modern applications using the **React** and **Next.js** ecosystem.I have practical experience in building APIs and integrating with SQL databases, always seeking the balance between an intuitive interface and a robust backend
+I am a Software Engineering student based in Laredo Cantabria, España. Currently, I focus my studies on developing modern applications using the **React** and **Next.js** ecosystem.I have practical experience in building APIs and integrating with SQL databases, always seeking the balance between an intuitive interface and a robust backend
 
 ---
 
