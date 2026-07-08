@@ -50,7 +50,6 @@ When I'm not coding, I document my development journey and share technical knowl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="35" title="Windows" style="padding-right: 10px;"/>
 </p>
 
-
 ---
 
 ### 🌱 Beyond the Code
