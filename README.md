@@ -3,9 +3,17 @@
 **Software Engineering Student | Fullstack Developer**
 <br>
 
-I am a Software Engineering student based in Laredo Cantabria, España. Currently, I focus my studies on developing modern applications using the **React** and **Next.js** ecosystem.I have practical experience in building APIs and integrating with SQL databases, always seeking the balance between an intuitive interface and a robust backend
+# Hi there! 👋
 
----
+I am a Software Engineering student and Fullstack Developer based in Laredo, Cantabria, España. I focus on developing modern, scalable applications, always seeking the perfect balance between an intuitive user interface and a robust backend.
+
+## 🚀 Featured Projects
+* **Tiempo Focus:** A complete fullstack Pomodoro timer application designed for productivity.
+* **Geopolitics Bot:** An autonomous Telegram bot for monitoring global news, built entirely with Vanilla Java and PostgreSQL.
+* **gitworkflow:** A custom CLI tool developed to streamline and automate GitHub activities.
+
+## 🎥 Content Creation
+When I'm not coding, I document my development journey and share technical knowledge on my YouTube channel, **[Stack do Almeida](https://www.youtube.com/@stackdoAlmeida)**.
 
 ### 🌐 Contact & Social Media
 <p align="left">
@@ -42,12 +50,6 @@ I am a Software Engineering student based in Laredo Cantabria, España. Currentl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="35" title="Windows" style="padding-right: 10px;"/>
 </p>
 
----
-
-### 🚀 Top Projects
-* **Airport Management System:** A Fullstack system focused on managing and organizing airport flows (Node.js, Express, TypeScript, PostgreSQL, React).
-* **Tiempo Focus:** A productivity application based on the Pomodoro technique, developed with React and TypeScript.
-* **Stack do Almeida:** A YouTube channel where I document my learning journey and share technical knowledge.
 
 ---
 
