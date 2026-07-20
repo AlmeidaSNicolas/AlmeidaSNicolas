@@ -8,9 +8,9 @@
 I am a Software Engineering student and Fullstack Developer based in Laredo, Cantabria, España. I focus on developing modern, scalable applications, always seeking the perfect balance between an intuitive user interface and a robust backend.
 
 ## 🚀 Featured Projects
-* **Tiempo Focus:** A complete fullstack Pomodoro timer application designed for productivity.
 * **Geopolitics Bot:** An autonomous Telegram bot for monitoring global news, built entirely with Vanilla Java and PostgreSQL.
 * **gitworkflow:** A custom CLI tool developed to streamline and automate GitHub activities.
+* **Tiempo Focus:** A complete fullstack Pomodoro timer application designed for productivity.
 
 ## 🎥 Content Creation
 When I'm not coding, I document my development journey and share technical knowledge on my YouTube channel, **[Stack do Almeida](https://www.youtube.com/@stackdoAlmeida)**.
