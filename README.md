@@ -1,6 +1,6 @@
 # 💻 Nicolas
 
-**Software Engineering Student | Fullstack Developer**
+**Software Engineering Student | Backend & Fullstack Developer**
 <br>
 
 # Hi there! 👋
