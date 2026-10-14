@@ -7,10 +7,16 @@
 
 I am a Software Engineering student and Fullstack Developer based in Laredo, Cantabria, España. I focus on developing modern, scalable applications, always seeking the perfect balance between an intuitive user interface and a robust backend.
 
+## 🔥 Currently Working On
+* **[30 Dias de Java](https://github.com/AlmeidaSNicolas/30-dias-java):** A 30-day challenge of hands-on Java exercises in a ticket format, covering OOP, exceptions, `java.time`, NIO, HTTP and Collections.
+* **[Java Training](https://github.com/AlmeidaSNicolas/JavaTrainingg):** My Java class notes and exercises, strengthening my backend foundations.
+* **JDBC & HTTP in pure Java:** Studying database access with JDBC and the HTTP protocol from the ground up, building HTTP servers and handlers, a URL shortener, and API clients with `HttpClient`, without frameworks.
+
 ## 🚀 Featured Projects
-* **Geopolitics Bot:** An autonomous Telegram bot for monitoring global news, built entirely with Vanilla Java and PostgreSQL.
+* **[Geopolitics Bot](https://github.com/AlmeidaSNicolas/BotTelegram):** An autonomous Telegram bot for monitoring, translating and sending geopolitical alerts, built entirely with Vanilla Java and PostgreSQL.
+* **[Airport Backend](https://github.com/AlmeidaSNicolas/airport-backend):** An airport management API with Node.js and TypeScript, handling flight and passenger control with data persistence.
+* **[Tiempo Focus](https://github.com/AlmeidaSNicolas/Tiempo-Focus):** A complete Pomodoro productivity app built with React and TypeScript.
 * **gitworkflow:** A custom CLI tool developed to streamline and automate GitHub activities.
-* **Tiempo Focus:** A complete fullstack Pomodoro timer application designed for productivity.
 
 ## 🎥 Content Creation
 When I'm not coding, I document my development journey and share technical knowledge on my YouTube channel, **[Stack do Almeida](https://www.youtube.com/@stackdoAlmeida)**.
@@ -40,15 +46,25 @@ When I'm not coding, I document my development journey and share technical knowl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" width="35" title="Node.js" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" width="35" title="Express" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="35" title="PostgreSQL" style="padding-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="35" title="SQLite" style="padding-right: 10px;"/>
 </p>
+
+**Also:** JDBC · HTTP protocol (`HttpServer`, `HttpClient`) · REST · Java NIO
 
 #### Tools & Dev Environment
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" title="GitHub" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" title="Docker" style="padding-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="35" title="IntelliJ IDEA" style="padding-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="35" title="macOS" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows8/windows8-original.svg" width="35" title="Windows" style="padding-right: 10px;"/>
 </p>
+
+#### Architecture & Design Patterns
+* **Architecture:** Layered Architecture, MVC, REST APIs
+* **Patterns:** Repository, Service Layer, DTO, Controller, Middleware, Dependency Injection
+* **Principles:** OOP, SOLID, Clean Code
 
 ---
 
