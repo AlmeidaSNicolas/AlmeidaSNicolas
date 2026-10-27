@@ -7,10 +7,6 @@
 
 I am a Software Engineering student and Fullstack Developer based in Laredo, Cantabria, España. I focus on developing modern, scalable applications, always seeking the perfect balance between an intuitive user interface and a robust backend.
 
-## 🔥 Currently Working On
-* **[Java Training](https://github.com/AlmeidaSNicolas/JavaTrainingg):** My Java class notes and exercises, strengthening my backend foundations.
-* **JDBC & HTTP in pure Java:** Studying database access with JDBC and the HTTP protocol from the ground up, building HTTP servers and handlers, a URL shortener, and API clients with `HttpClient`, without frameworks.
-
 ## 🚀 Featured Projects
 * **[Geopolitics Bot](https://github.com/AlmeidaSNicolas/BotTelegram):** An autonomous Telegram bot for monitoring, translating and sending geopolitical alerts, built entirely with Vanilla Java and PostgreSQL.
 * **[Airport Backend](https://github.com/AlmeidaSNicolas/airport-backend):** An airport management API with Node.js and TypeScript, handling flight and passenger control with data persistence.
