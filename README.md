@@ -8,7 +8,6 @@
 I am a Software Engineering student and Fullstack Developer based in Laredo, Cantabria, España. I focus on developing modern, scalable applications, always seeking the perfect balance between an intuitive user interface and a robust backend.
 
 ## 🔥 Currently Working On
-* **[30 Dias de Java](https://github.com/AlmeidaSNicolas/30-dias-java):** A 30-day challenge of hands-on Java exercises in a ticket format, covering OOP, exceptions, `java.time`, NIO, HTTP and Collections.
 * **[Java Training](https://github.com/AlmeidaSNicolas/JavaTrainingg):** My Java class notes and exercises, strengthening my backend foundations.
 * **JDBC & HTTP in pure Java:** Studying database access with JDBC and the HTTP protocol from the ground up, building HTTP servers and handlers, a URL shortener, and API clients with `HttpClient`, without frameworks.
 
