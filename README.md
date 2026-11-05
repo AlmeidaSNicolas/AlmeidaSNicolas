@@ -1,38 +1,65 @@
-# 💻 Nicolas
+# Hi, I'm Nicolas 👋
 
-**Software Engineering Student | Backend & Fullstack Developer**
-<br>
+**Java Backend Developer | Software Engineering Student**
 
-# Hi there! 👋
+I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years as a fullstack developer at Slever AI, and now I focus on Java backend: APIs and services that run in production, not just on localhost.
 
-I am a Software Engineering student and Fullstack Developer based in Laredo, Cantabria, España. I focus on developing modern, scalable applications, always seeking the perfect balance between an intuitive user interface and a robust backend.
+📍 Open to junior Java/backend roles in Cantabria, Bizkaia or remote in Spain · 🌐 **[Portfolio](https://nicolas-almeida.vercel.app)**
+
+## 🔨 Building now
+
+**[PortfolioSync API](https://github.com/AlmeidaSNicolas/portfoliosync-api)** keeps the projects section of my portfolio up to date on its own: I push to a GitHub repository, a webhook tells the API, and the project shows up on the site in Spanish and English.
+
+`Java 21` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Flyway` `Testcontainers` `Docker` `GitHub Actions`
+
+- [x] Project setup, data model, migrations and CI
+- [x] `GET /api/projects` with per-language responses and standard error handling
+- [ ] GitHub client that reads and validates each repo's `portfolio.json` *(in progress)*
+- [ ] Signed webhooks with idempotent delivery handling
+- [ ] Deploy, then connect the portfolio to the API
 
 ## 🚀 Featured Projects
-* **[Geopolitics Bot](https://github.com/AlmeidaSNicolas/BotTelegram):** An autonomous Telegram bot for monitoring, translating and sending geopolitical alerts, built entirely with Vanilla Java and PostgreSQL.
-* **[Airport Backend](https://github.com/AlmeidaSNicolas/airport-backend):** An airport management API with Node.js and TypeScript, handling flight and passenger control with data persistence.
-* **[Tiempo Focus](https://github.com/AlmeidaSNicolas/Tiempo-Focus):** A complete Pomodoro productivity app built with React and TypeScript.
-* **gitworkflow:** A custom CLI tool developed to streamline and automate GitHub activities.
+
+| Project | What it does | Stack |
+|---|---|---|
+| **[Geopolitics Bot](https://github.com/AlmeidaSNicolas/BotTelegram)** | [Live on Telegram](https://t.me/geopoliticaNews). Monitors 14 international outlets, filters for geopolitical relevance, translates with DeepL and posts alerts to a public channel. | Vanilla Java, PostgreSQL, Docker |
+| **[Claudinho](https://github.com/AlmeidaSNicolas/claudinho-widget)** | Native macOS menu bar app and desktop widget that show what Claude Code is doing and how much of the usage limit is left, live. | Swift, SwiftUI |
+| **[Portfolio](https://github.com/AlmeidaSNicolas/portfolio)** | [My personal site](https://nicolas-almeida.vercel.app), terminal style, in Spanish and English. | Next.js, TypeScript, Vercel |
+| **[Airport Backend](https://github.com/AlmeidaSNicolas/airport-backend)** | Layered REST API for flights and aircraft, with JWT authentication and Bcrypt-hashed passwords. | Node.js, TypeScript |
+| **[Tiempo Focus](https://github.com/AlmeidaSNicolas/Tiempo-Focus)** | [Pomodoro app](https://tiempo-focus.vercel.app) with persistent tasks and timer. | React, TypeScript |
+
+## 📚 Learning in Public
+
+- **[30 Dias de Java](https://github.com/AlmeidaSNicolas/30-dias-java):** hands-on Java challenges written as work tickets, with requirements and acceptance criteria: OOP, exceptions, `java.time`, NIO, HTTP and Collections.
+- **[Java Training](https://github.com/AlmeidaSNicolas/JavaTrainingg):** my Java course repository, from the core of the language up to generics, lambdas, `Optional` and Streams.
+
+## 💼 Experience
+
+- **Fullstack Developer, Slever AI** (12/2024 – 06/2026): LLM-powered backends, microfrontends and stress testing.
+- **Automation, UNIFAHE** (2025): made the enrollment process 80% faster.
+- **BSc in Software Engineering, Anhanguera** (until 12/2028).
 
 ## 🎥 Content Creation
-When I'm not coding, I document my development journey and share technical knowledge on my YouTube channel, **[Stack do Almeida](https://www.youtube.com/@stackdoAlmeida)**.
 
-### 🌐 Contact & Social Media
+I document my development journey and share technical knowledge on my YouTube channel, **[Stack do Almeida](https://www.youtube.com/@stackdoAlmeida)**.
+
+## 🌐 Contact
+
 <p align="left">
   <a href="https://www.linkedin.com/in/nicolas-almeida-" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Nicolas Almeida's LinkedIn">
+  </a>
+  <a href="https://nicolas-almeida.vercel.app" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Nicolas Almeida's portfolio">
+  </a>
+  <a href="https://www.youtube.com/@stackdoAlmeida" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Stack do Almeida on YouTube">
   </a>
 </p>
 
 ---
 
-### 🤖💻 Languages and Technologies
-
-#### Frontend & Frameworks
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" title="TypeScript" style="padding-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" title="React" style="padding-right: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="35" title="Next.js" style="padding-right: 10px;"/>
-</p>
+## 🤖💻 Languages and Technologies
 
 #### Backend & Databases
 <p align="left">
@@ -44,12 +71,21 @@ When I'm not coding, I document my development journey and share technical knowl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="35" title="SQLite" style="padding-right: 10px;"/>
 </p>
 
-**Also:** JDBC · HTTP protocol (`HttpServer`, `HttpClient`) · REST · Java NIO
+**Also:** Spring Data JPA · Flyway · Testcontainers · JDBC · HTTP protocol (`HttpServer`, `HttpClient`) · REST · Java NIO
+
+#### Frontend & Frameworks
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="35" title="TypeScript" style="padding-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="35" title="React" style="padding-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="35" title="Next.js" style="padding-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" width="35" title="Swift" style="padding-right: 10px;"/>
+</p>
 
 #### Tools & Dev Environment
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="35" title="Git" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="35" title="GitHub" style="padding-right: 10px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="35" title="GitHub Actions" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="35" title="Docker" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="35" title="IntelliJ IDEA" style="padding-right: 10px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" width="35" title="macOS" style="padding-right: 10px;"/>
@@ -63,8 +99,6 @@ When I'm not coding, I document my development journey and share technical knowl
 
 ---
 
-### 🌱 Beyond the Code
+## 🌱 Beyond the Code
 * 🌍 **Geopolitics:** Enthusiast and student of global dynamics.
-* **Languages:** Portuguese (Native), Spanish (Fluent), and English (Technical).
-
-<br>
+* 🗣️ **Languages:** Portuguese (Native), Spanish (Fluent), and English (Technical).
