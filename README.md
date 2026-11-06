@@ -10,12 +10,12 @@ I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years a
 
 **[PortfolioSync API](https://github.com/AlmeidaSNicolas/portfoliosync-api)** keeps the projects section of my portfolio up to date on its own: I push to a GitHub repository, a webhook tells the API, and the project shows up on the site in Spanish and English.
 
-`Java 21` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Flyway` `Testcontainers` `Docker` `GitHub Actions`
+`Java 21` `Spring Boot` `Spring Data JPA` `PostgreSQL` `Flyway` `Testcontainers` `WireMock` `Docker` `GitHub Actions`
 
 - [x] Project setup, data model, migrations and CI
 - [x] `GET /api/projects` with per-language responses and standard error handling
-- [ ] GitHub client that reads and validates each repo's `portfolio.json` *(in progress)*
-- [ ] Signed webhooks with idempotent delivery handling
+- [x] GitHub client that reads and validates each repo's `portfolio.json`
+- [ ] Signed webhooks with idempotent delivery handling *(in progress)*
 - [ ] Deploy, then connect the portfolio to the API
 
 ## 🚀 Featured Projects
