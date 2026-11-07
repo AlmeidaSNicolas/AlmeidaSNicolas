@@ -4,7 +4,6 @@
 
 I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years as a fullstack developer at Slever AI, and now I focus on Java backend: APIs and services that run in production, not just on localhost.
 
-📍 Open to junior Java/backend roles in Cantabria, Bizkaia or remote in Spain · 🌐 **[Portfolio](https://nicolas-almeida.vercel.app)**
 
 ## 🔨 Building now
 
