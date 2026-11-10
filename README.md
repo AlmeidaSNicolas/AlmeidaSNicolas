@@ -14,7 +14,9 @@ I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years a
 - [x] Project setup, data model, migrations and CI
 - [x] `GET /api/projects` with per-language responses and standard error handling
 - [x] GitHub client that reads and validates each repo's `portfolio.json`
-- [ ] Signed webhooks with idempotent delivery handling *(in progress)*
+- [x] Signed webhook endpoint (HMAC validation) with idempotent delivery handling *(in the open Sprint 3 pull request)*
+- [ ] Sync: read the repo's metadata and `portfolio.json`, then upsert the project *(in progress)*
+- [ ] Hide projects that lose the topic or the file, keeping the last valid version
 - [ ] Deploy, then connect the portfolio to the API
 
 ## 🚀 Featured Projects
