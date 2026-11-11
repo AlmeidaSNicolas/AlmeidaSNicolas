@@ -1,9 +1,10 @@
 # Hi, I'm Nicolas 👋
 
-**Java Backend Developer | Software Engineering Student**
+**Java Backend Developer · Spring Boot · Open to junior roles**
 
-I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years as a fullstack developer at Slever AI, and now I focus on Java backend: APIs and services that run in production, not just on localhost.
+I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years as a fullstack developer at Slever AI, and now I focus on Java backend: REST APIs with tests, migrations and CI, built in public.
 
+**Looking for:** a junior Java / Spring Boot backend role (remote in Spain, or Bizkaia / Cantabria).
 
 ## 🔨 Building now
 
@@ -14,24 +15,25 @@ I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years a
 - [x] Project setup, data model, migrations and CI
 - [x] `GET /api/projects` with per-language responses and standard error handling
 - [x] GitHub client that reads and validates each repo's `portfolio.json`
-- [x] Signed webhook endpoint (HMAC validation) with idempotent delivery handling *(in the open Sprint 3 pull request)*
-- [ ] Sync: read the repo's metadata and `portfolio.json`, then upsert the project *(in progress)*
-- [ ] Hide projects that lose the topic or the file, keeping the last valid version
-- [ ] Deploy, then connect the portfolio to the API
+- [x] Signed webhook endpoint (HMAC validation) with idempotent delivery handling
+- [x] Sync service that creates or updates a project from its repository
+- [ ] Hide projects that lose the topic or the file, keeping the last valid version *(in progress)*
+- [ ] Run the sync when a push arrives
+- [ ] Admin endpoints with Spring Security, then deploy and connect the portfolio
 
 ## 🚀 Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
+| **[PortfolioSync API](https://github.com/AlmeidaSNicolas/portfoliosync-api)** | Webhook-driven API that syncs my portfolio from GitHub. Signed requests, idempotent deliveries, integration tests against a real PostgreSQL, CI on every PR. | Java 21, Spring Boot, PostgreSQL, Flyway |
 | **[Geopolitics Bot](https://github.com/AlmeidaSNicolas/BotTelegram)** | [Live on Telegram](https://t.me/geopoliticaNews). Monitors 14 international outlets, filters for geopolitical relevance, translates with DeepL and posts alerts to a public channel. | Vanilla Java, PostgreSQL, Docker |
-| **[Claudinho](https://github.com/AlmeidaSNicolas/claudinho-widget)** | Native macOS menu bar app and desktop widget that show what Claude Code is doing and how much of the usage limit is left, live. | Swift, SwiftUI |
+| **[30 Dias de Java](https://github.com/AlmeidaSNicolas/30-dias-java)** | Hands-on challenges written as work tickets, with requirements and acceptance criteria: OOP, exceptions, `java.time`, NIO, HTTP and Collections. | Java |
 | **[Portfolio](https://github.com/AlmeidaSNicolas/portfolio)** | [My personal site](https://nicolas-almeida.vercel.app), terminal style, in Spanish and English. | Next.js, TypeScript, Vercel |
-| **[Airport Backend](https://github.com/AlmeidaSNicolas/airport-backend)** | Layered REST API for flights and aircraft, with JWT authentication and Bcrypt-hashed passwords. | Node.js, TypeScript |
-| **[Tiempo Focus](https://github.com/AlmeidaSNicolas/Tiempo-Focus)** | [Pomodoro app](https://tiempo-focus.vercel.app) with persistent tasks and timer. | React, TypeScript |
+
+**Other work:** [Airport Backend](https://github.com/AlmeidaSNicolas/airport-backend) (layered REST API with JWT, Node.js), [Tiempo Focus](https://github.com/AlmeidaSNicolas/Tiempo-Focus) (Pomodoro app, React) and [Claudinho](https://github.com/AlmeidaSNicolas/claudinho-widget) (macOS menu bar app, Swift).
 
 ## 📚 Learning in Public
 
-- **[30 Dias de Java](https://github.com/AlmeidaSNicolas/30-dias-java):** hands-on Java challenges written as work tickets, with requirements and acceptance criteria: OOP, exceptions, `java.time`, NIO, HTTP and Collections.
 - **[Java Training](https://github.com/AlmeidaSNicolas/JavaTrainingg):** my Java course repository, from the core of the language up to generics, lambdas, `Optional` and Streams.
 
 ## 💼 Experience
