@@ -27,7 +27,6 @@ I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years a
 |---|---|---|
 | **[PortfolioSync API](https://github.com/AlmeidaSNicolas/portfoliosync-api)** | Webhook-driven API that syncs my portfolio from GitHub. Signed requests, idempotent deliveries, integration tests against a real PostgreSQL, CI on every PR. | Java 21, Spring Boot, PostgreSQL, Flyway |
 | **[Geopolitics Bot](https://github.com/AlmeidaSNicolas/BotTelegram)** | [Live on Telegram](https://t.me/geopoliticaNews). Monitors 14 international outlets, filters for geopolitical relevance, translates with DeepL and posts alerts to a public channel. | Vanilla Java, PostgreSQL, Docker |
-| **[30 Dias de Java](https://github.com/AlmeidaSNicolas/30-dias-java)** | Hands-on challenges written as work tickets, with requirements and acceptance criteria: OOP, exceptions, `java.time`, NIO, HTTP and Collections. | Java |
 | **[Portfolio](https://github.com/AlmeidaSNicolas/portfolio)** | [My personal site](https://nicolas-almeida.vercel.app), terminal style, in Spanish and English. | Next.js, TypeScript, Vercel |
 
 **Other work:** [Airport Backend](https://github.com/AlmeidaSNicolas/airport-backend) (layered REST API with JWT, Node.js), [Tiempo Focus](https://github.com/AlmeidaSNicolas/Tiempo-Focus) (Pomodoro app, React) and [Claudinho](https://github.com/AlmeidaSNicolas/claudinho-widget) (macOS menu bar app, Swift).
