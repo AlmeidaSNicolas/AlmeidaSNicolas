@@ -17,9 +17,10 @@ I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years a
 - [x] GitHub client that reads and validates each repo's `portfolio.json`
 - [x] Signed webhook endpoint (HMAC validation) with idempotent delivery handling
 - [x] Sync service that creates or updates a project from its repository
-- [ ] Hide projects that lose the topic or the file, keeping the last valid version *(in progress)*
-- [ ] Run the sync when a push arrives
-- [ ] Admin endpoints with Spring Security, then deploy and connect the portfolio
+- [x] Hide projects that lose the topic or the file, keeping the last valid version and the reason for the error
+- [x] Run the sync when a push arrives, recording each delivery as processed, ignored or failed
+- [ ] Token-protected manual resync and listing order *(next)*
+- [ ] Deploy (Docker, Render + Neon, CD with GitHub Actions) and connect the portfolio
 
 ## 🚀 Featured Projects
 
