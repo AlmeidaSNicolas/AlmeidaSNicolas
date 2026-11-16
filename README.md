@@ -4,7 +4,6 @@
 
 I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years as a fullstack developer at Slever AI, and now I focus on Java backend: REST APIs with tests, migrations and CI, built in public.
 
-**Looking for:** a junior Java / Spring Boot backend role (remote in Spain, or Bizkaia / Cantabria).
 
 ## 🔨 Building now
 
