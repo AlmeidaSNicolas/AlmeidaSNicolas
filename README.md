@@ -1,6 +1,6 @@
 # Hi, I'm Nicolas 👋
 
-**Java Backend Developer · Spring Boot · Open to junior roles**
+**Java Backend Developer · Spring Boot · **
 
 I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years as a fullstack developer at Slever AI, and now I focus on Java backend: REST APIs with tests, migrations and CI, built in public.
 
