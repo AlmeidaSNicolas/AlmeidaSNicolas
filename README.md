@@ -4,9 +4,6 @@
 
 I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years as a fullstack developer at Slever AI, and now I focus on Java backend: REST APIs with tests, migrations and CI, built in public.
 
-🌐 **Portfolio:** [nicolas-almeida.vercel.app](https://nicolas-almeida.vercel.app)
-
-
 ## 🚢 Shipped
 
 **[PortfolioSync API](https://github.com/AlmeidaSNicolas/portfoliosync-api)** keeps the projects section of my portfolio up to date on its own: I push to a GitHub repository, a webhook tells the API, and the project shows up on the site in Spanish and English.
