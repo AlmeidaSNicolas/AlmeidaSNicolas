@@ -1,11 +1,13 @@
 # Hi, I'm Nicolas 👋
 
-**Java Backend Developer · Spring Boot · **
+**Java Backend Developer · Spring Boot**
 
 I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years as a fullstack developer at Slever AI, and now I focus on Java backend: REST APIs with tests, migrations and CI, built in public.
 
+🌐 **Portfolio:** [nicolas-almeida.vercel.app](https://nicolas-almeida.vercel.app)
 
-## 🔨 Building now
+
+## 🚢 Shipped
 
 **[PortfolioSync API](https://github.com/AlmeidaSNicolas/portfoliosync-api)** keeps the projects section of my portfolio up to date on its own: I push to a GitHub repository, a webhook tells the API, and the project shows up on the site in Spanish and English.
 
@@ -18,8 +20,8 @@ I'm a Brazilian developer based in Laredo, Cantabria, Spain. I spent 1.5 years a
 - [x] Sync service that creates or updates a project from its repository
 - [x] Hide projects that lose the topic or the file, keeping the last valid version and the reason for the error
 - [x] Run the sync when a push arrives, recording each delivery as processed, ignored or failed
-- [ ] Token-protected manual resync and listing order *(next)*
-- [ ] Deploy (Docker, Render + Neon, CD with GitHub Actions) and connect the portfolio
+- [x] Token-protected manual resync and listing order
+- [x] Deploy (Docker, Render + Neon, CD with GitHub Actions) and connect the portfolio
 
 ## 🚀 Featured Projects
 
